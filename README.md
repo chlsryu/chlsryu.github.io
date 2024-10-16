@@ -1,2 +1,2 @@
 # chlsryu.github.io
- Desenvolvimentos diversos
+ Desenvolvimentos Dversos
